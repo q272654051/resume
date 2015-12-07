@@ -7,7 +7,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Easy Profile Blue - templatemo</title>
+	<title>董佳星-简历</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="">
@@ -46,61 +46,62 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<div class="row">
 		<div class="col-md-6 col-sm-12">
 			<div class="about">
-				<h3 class="accent">Easy Profile</h3>
-				<h2>Bootstrap v3.3.5</h2>
-				<p>This easy HTML profile is brought to you by templatemo website. There are 4 color themes, <a href="index-green.html">Green</a>, <a href="index.html">Blue</a>, <a href="index-gray.html">Gray</a>, and <a href="index-orange.html">Orange</a>. Sed vitae dui in neque elementum tempor eu id risus. Phasellus sed facilisis lacus, et venenatis augue.</p>
+				<h3 class="accent">自我介绍</h3>
+				<h2> </h2>
+				<p>学习能力强，接受新知识快，实际参加工作一年多，开发过基于大数据的房地产估值等几个项目，独自开发微信。对工作热情，适应环境能力强，有责任心。</p>
 			</div>
 		</div>
 		<div class="col-md-6 col-sm-12">
 			<div class="skills">
-				<h2 class="white">Skills</h2>
-				<strong>PHP MySQL</strong>
-				<span class="pull-right">70%</span>
-					<div class="progress">
-						<div class="progress-bar progress-bar-primary" role="progressbar" 
-                        aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
-					</div>
-				<strong>UI/UX Design</strong>
+				<h2 class="white">技能</h2>
+				<strong>Java  Mysql</strong>
 				<span class="pull-right">85%</span>
 					<div class="progress">
 						<div class="progress-bar progress-bar-primary" role="progressbar" 
                         aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
 					</div>
-				<strong>Bootstrap</strong>
-				<span class="pull-right">95%</span>
+				<strong>springMVC  SSH</strong>
+				<span class="pull-right">75%</span>
 					<div class="progress">
 						<div class="progress-bar progress-bar-primary" role="progressbar" 
-                        aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
+                        aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div>
+					</div>
+				<strong>html  javaScript  ajax  json</strong>
+				<span class="pull-right">70%</span>
+					<div class="progress">
+						<div class="progress-bar progress-bar-primary" role="progressbar" 
+                        aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
 					</div>
 			</div>
 		</div>
 	</div>
 </section>
-<div class="copyrights">Collect from <a href="http://www.cssmoban.com/" >企业网站模板</a></div>
 <!-- education and languages -->
 <section class="container">
 	<div class="row">
 		<div class="col-md-8 col-sm-12">
 			<div class="education">
-				<h2 class="white">Education</h2>
+				<h2 class="white">教育经历</h2>
 					<div class="education-content">
-						<h4 class="education-title accent">New Web Design</h4>
+						<h4 class="education-title accent">计算机科学与技术</h4>
 							<div class="education-school">
-								<h5>School of Media</h5><span></span>
-								<h5>2030 January - 2034 December</h5>
+								<h5>石家庄学院</h5><span></span>
+								<h5>2011 September - 2015 June</h5>
 							</div>
-						<p class="education-description">In lacinia leo sed quam feugiat, ac efficitur dui tristique. Ut venenatis, odio quis cursus egestas, nulla sem volutpat diam, ac dapibus nisl ipsum ut ipsum. Nunc tincidunt libero non magna placerat elementum.</p>
+						<p class="education-description">在校期间担任学生干部，组织过团体活动。跟随专业教师做过小型项目，大四开始在校外全职实习，积累了一定的项目经验。</p>
 					</div>
 			</div>
 		</div>
 		<div class="col-md-4 col-sm-12">
 			<div class="languages">
-				<h2>Languages</h2>
+				<h2>计算机语言</h2>
 					<ul>
-						<li>Myanmar / Thai</li>
-						<li>English / Spanish</li>
-						<li>Chinese / Japanese</li>
-						<li>Arabic / Hebrew</li>
+						<li>C / 熟练</li>
+						<li>C++ / 掌握</li>
+						<li>JAVA / 精通</li>
+						<li>html / 熟练</li>
+						<li>PHP / 入门</li>
+						<li>python / 入门</li>
 					</ul>
 			</div>
 		</div>
@@ -112,21 +113,21 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<div class="row">
 		<div class="col-md-4 col-sm-12">
 			<div class="contact">
-				<h2>Contact</h2>
-					<p><i class="fa fa-map-marker"></i> 123 Rama IX Road, Bangkok</p>
-					<p><i class="fa fa-phone"></i> 010-020-0890</p>
-					<p><i class="fa fa-envelope"></i> easy@company.com</p>
-					<p><i class="fa fa-globe"></i> www.company.com</p>
+				<h2>联系方式</h2>
+					<p><i class="fa fa-map-marker"></i> 北京市朝阳区东坝乡康各庄路</p>
+					<p><i class="fa fa-phone"></i> 18810800491</p>
+					<p><i class="fa fa-envelope"></i> lovejxch@163.com</p>
+					<p><i class="fa fa-globe"></i> www.maindear.com</p>
 			</div>
 		</div>
 		<div class="col-md-8 col-sm-12">
 			<div class="experience">
-				<h2 class="white">Experiences</h2>
+				<h2 class="white">工作经历</h2>
 					<div class="experience-content">
-						<h4 class="experience-title accent">Website Development</h4>
-						<h5>New Media Company</h5><span></span>
-						<h5>2035 January - 2036 April</h5>
-						<p class="education-description">Cras porta tincidunt sem, in sollicitudin lorem efficitur ut. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+						<h4 class="experience-title accent">java工程师</h4>
+						<h5>北京云房数据技术有限责任公司</h5><span></span>
+						<h5>2015-至今</h5>
+						<p class="education-description">参与开发公司产品，房地产在线估值--“房估估”系统以及“房估估金融版”系统，从产品的设计到开发和后期维护全程参与，目前还在更新迭代中。独自开发微信服务号，拥有web版的基本功能，对接微信接口和基础库系统接口。</p>
 					</div>
 			</div>
 		</div>
